@@ -9,7 +9,7 @@ django==2.2.21
 docutils==0.14
 gunicorn==19.9.0
 jmespath==0.9.4
-pillow==8.2.0
+pillow==9.3.0
 psycopg2==2.8.3
 python-dateutil==2.8.0 ; python_version >= '2.7'
 pytz==2019.1
